@@ -1,0 +1,19 @@
+
+Phishing Email Analysis Report
+------------------------------
+
+Email Subject: "Item shared with you: 'Updated Org Chart'"
+Sender: Seb from CanIPhish
+
+Phishing Indicators Identified:
+
+1. Sender email and name seem fake or spoofed.
+2. Email contains template text {{Target-Company}}, showing it’s a mass phishing attempt.
+3. File link is suspicious and could be malicious.
+4. Message uses urgency (“due to unforeseen circumstances...”) to push you to open the file.
+5. The "Open" button mimics Google Drive but could redirect to a phishing site.
+6. No personalization (no name, department, or role mentioned).
+7. Email is related to sensitive HR info — a common trick to get clicks.
+
+Conclusion:
+This is a classic phishing email pretending to share an important HR document through Google Drive. It should not be trusted or clicked.
